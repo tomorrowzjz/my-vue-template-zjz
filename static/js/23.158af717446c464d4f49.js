@@ -1,2 +1,0 @@
-webpackJsonp([23],{Zo5o:function(t,e){},cqKC:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var o={name:"",data:function(){return{msg:"bortherone"}},methods:{test:function(){this.bus.$emit("brothertest","zjz")}}},s={render:function(){var t=this.$createElement;return(this._self._c||t)("el-button",{on:{click:this.test}},[this._v("test兄弟组件传值")])},staticRenderFns:[]};var r=n("VU/8")(o,s,!1,function(t){n("Zo5o")},"data-v-ef8c4b1c",null);e.default=r.exports}});
-//# sourceMappingURL=23.158af717446c464d4f49.js.map
